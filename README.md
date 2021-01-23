@@ -27,7 +27,8 @@ Alternatively, you can use the "say command" if you prefer.<br><br>
 
 <b>To learn more about AppleScript</b><br>
 https://gist.github.com/nayanseth/c18931e0777579467a12<br>
-http://downloads.techbarrack.com/books/programming/AppleScript/website/basics/say.html<br><br>
+http://downloads.techbarrack.com/books/programming/AppleScript/website/basics/say.html<br>
+https://github.com/unforswearing/applescript<br><br>
 
 <b>Disclaimer:</b> I'm not an expert in AppleScript but if you reach out to me, i will try my best to help you.<br>
 Contact me: https://www.linkedin.com/in/tolani-aka-rpa-jargon-buster-jaiye-tikolo/
